@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"server","dependencies":{"bcrypt":{"version":"5.1.0"},"cors":{"version":"2.8.5"},"dotenv":{"version":"16.0.3"},"express":{"version":"4.18.2"},"joi-password-complexity":{"version":"5.1.0"},"joi":{"version":"17.9.1"},"jsonwebtoken":{"version":"9.0.0"},"mongoose":{"version":"7.0.3"},"nodemon":{"version":"2.0.22"}}}
